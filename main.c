@@ -1,3 +1,11 @@
+#define _USE_MATH_DEFINES
+#include<stdio.h>
+#include<conio.h>
+#include<math.h>
+#include<locale.h>
+#include <time.h>
+#include <stdlib.h>
+
 {//#1
 int a[n1], i ;
 double  sr = 0, k = 0;
